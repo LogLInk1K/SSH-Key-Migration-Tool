@@ -4,9 +4,7 @@
 
 A batch processing tool for migrating SSH keys between Windows systems, supporting backup and recovery modes.
 
-  <p align="center">
-    <a href="/docs/usage_zh-CN.md">简体中文</a>
-  </p>
+<a href="/docs/usage_zh-CN.md">简体中文</a>
 
 ## Functional characteristics
 -One click backup of SSH key to script directory
