@@ -21,7 +21,8 @@
 2. 运行脚本并选择模式 2
 3. 密钥会被还原到`%USERPROFILE%\.ssh`
 
-⚠️ **重要提示**&zwnj;  
+⚠️ **重要提示**;  
 建议在恢复后执行权限重置：
 ```cmd
 icacls "%USERPROFILE%\.ssh" /reset /T /C
+```
