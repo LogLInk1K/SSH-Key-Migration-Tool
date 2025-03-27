@@ -25,6 +25,7 @@ A batch processing tool for migrating SSH keys between Windows systems, supporti
 Suggest resetting permissions after recovery:
 ```cmd
 icacls "%USERPROFILE%\.ssh" /reset /T /C
+```
 
 # SSH 密钥迁移工具
 
@@ -53,3 +54,4 @@ icacls "%USERPROFILE%\.ssh" /reset /T /C
 建议在恢复后执行权限重置：
 ```cmd
 icacls "%USERPROFILE%\.ssh" /reset /T /C
+```
