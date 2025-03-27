@@ -4,6 +4,10 @@
 
 一个用于在Windows系统间迁移SSH密钥的批处理工具，支持备份和恢复模式。
 
+  <p align="center">
+    <a href="/README.md">English</a>
+  </p>
+
 ## 功能特性
 - 一键备份SSH密钥到脚本目录
 - 自动恢复密钥到新设备的用户目录
